@@ -37,3 +37,5 @@ local.properties
 .swp
 ehthumbs.db
 Thumbs.db
+.autoenv.zsh
+.autoenv_leave.zsh
